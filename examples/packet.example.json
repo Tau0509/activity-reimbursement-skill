@@ -1,0 +1,13 @@
+{
+  "name": "示例活动_归档演示",
+  "instructions": "仅用于演示文件归档。此包不包含真实票据或报销材料。",
+  "files": [
+    {
+      "source": "demo/示例说明.txt",
+      "path": "05_活动及报销参考资料/R01_虚构示例说明.txt",
+      "category": "演示资料",
+      "source_label": "demo/示例说明.txt",
+      "note": "虚构示例，不作为报销凭证"
+    }
+  ]
+}

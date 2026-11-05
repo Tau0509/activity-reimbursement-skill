@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "DEMO-E01",
+      "name": "虚构物料制作",
+      "invoice_amount": "100.00",
+      "invoices": [
+        {
+          "number": "DEMO-INVOICE-001",
+          "source": "虚构发票.pdf"
+        }
+      ],
+      "orders": [
+        "虚构订单截图.png"
+      ],
+      "payments": [
+        {
+          "amount": "120.00",
+          "transaction_id": "DEMO-PAYMENT-001",
+          "source": "虚构付款.png"
+        }
+      ],
+      "refunds": [
+        {
+          "amount": "20.00",
+          "transaction_id": "DEMO-REFUND-001",
+          "source": "虚构退款.png",
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "expected_invoice_total": "100.00",
+  "expected_net_payment_total": "100.00"
+}

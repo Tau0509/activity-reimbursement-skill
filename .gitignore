@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+output/
+demo-output/
+*.zip
+*.zip.partial
+*.docx
+*.xlsx
+*.pdf
